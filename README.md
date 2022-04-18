@@ -148,7 +148,7 @@ lost-ark:.
 - ...(未完待续)
 
 ## 5 📝 许可
-**论坛以及本仓库和其附属文件皆遵循[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)开源！**，如果您要转载论坛/仓库文件，请务必加上转载出处！请注意，开源不代表可以滥用，转载或使用这些源代码时，请务必保留原始的版权信息！ 这是一个程序员最基本的修养，也是对原作者最起码的尊重。
+**论坛以及本仓库和其附属文件皆遵循[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)以及[Code of Conduct](https://github.com/white-windmills/lostark-forum/blob/master/CODE_OF_CONDUCT.md)开源！**，如果您要转载论坛/仓库文件，请务必加上转载出处！请注意，开源不代表可以滥用，转载或使用这些源代码时，请务必保留原始的版权信息！ 这是一个程序员最基本的修养，也是对原作者最起码的尊重。
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
