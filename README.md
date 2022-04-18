@@ -144,10 +144,10 @@ lost-ark:.
   - ...(未完待续)
 - 由[Docker](https://github.com/docker)提供的Linux容器的容器化技术，及其包含的组件。
 - 由[华为云](https://www.huaweicloud.com/)提供的云服务器。
-- 由[godaddy](https://www.godaddy.com/zh-sg/zh)提供的域名。
+- 由[Godaddy](https://www.godaddy.com/zh-sg/zh)提供的域名。
 - 由[Termius](https://termius.com/)提供的SSH登陆工具。
 - 由[Vercel](https://vercel.com/)提供的静态文件部署服务。
-- 由[docsify](https://docsify.js.org)提供的文档/知识库生成器。
+- 由[Docsify](https://docsify.js.org)提供的文档/知识库生成器。
 - ...(未完待续)
 
 ## 5 📝 许可
