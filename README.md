@@ -93,10 +93,7 @@ lost-ark:.
 
 如果您觉得本仓库内容不够好/不满意的地方，欢迎提出[Issues](https://github.com/white-windmills/lostark-forum/issues)，[PR](https://github.com/white-windmills/lostark-forum/pulls)将会在仓库管理员审核之后授权，相关的[PR文档/如何PR](https://docs.github.com/en/pull-requests)可以在这里找到。也欢迎到论坛的[反馈板块](https://lost-ark.top/t/feedback)进行反馈哦 (●'◡'●)，~~老登站长随时在线~~(bushi)，同时欢迎加入[QQ](https://img.shields.io/badge/chat-telegram-blue?style=plastic&logo=telegram)群聊or[Telegram](https://t.me/awesomeLostArk)。
 
-**论坛的地图汉化还为完善，欢迎有能力的同学加入汉化组帮助一起汉化！**
-
-如果你觉得我们计划好的话欢迎给我们一个⭐或者~~多水帖~~，以及宣传我们！这是对我们最好的鼓励！
-
+**论坛的地图汉化还为完善，欢迎有能力的同学加入汉化组帮助一起汉化！**如果你觉得我们计划好的话欢迎给我们一个⭐或者~~多水帖~~，以及宣传我们！这是对我们最好的鼓励！
 以下是本仓库贡献者列表(*实时更新*)，
 
 <a href="https://github.com/white-windmills/lostark-forum/graphs/contributors">
