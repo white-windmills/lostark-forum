@@ -1,5 +1,5 @@
 <img src="img/lostark.png"></img>
-<small align="center">logo credits from <a href="https://www.playlostark.com/en-us">lostark</a></small>
+<p align="center"><small>logo credits from <a href="https://www.playlostark.com/en-us">lostark</a></small></p>
 
 <h1 align="center">LostArk Forum | 失落方舟中文论坛</h1>
 
