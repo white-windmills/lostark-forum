@@ -97,6 +97,12 @@ lost-ark:.
 
 如果你觉得我们计划好的话欢迎给我们一个⭐或者~~多水帖~~，以及宣传我们！这是对我们最好的鼓励！
 
+以下是本仓库贡献者列表(*实时更新*)，
+
+<a href="https://github.com/white-windmills/lostark-forum/graphs/contributors">
+  <img align="center" src="https://contrib.rocks/image?repo=white-windmills/lostark-forum" />
+</a>
+
 ## 4 💌 鸣谢
 
 以下列表为**感谢清单**，在建站的时候使用到的框架/插件/主题/人(?)，**排名不分先后！**
