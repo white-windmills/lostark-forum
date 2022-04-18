@@ -1,2 +1,2 @@
-# whitewindmills-forum
+# lostark-forum
 🎠 Unofficial Chinese LostArk game forum dev progress repo.
