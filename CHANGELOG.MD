@@ -6,5 +6,8 @@
 - Added `FUNDYING,md` for sponsorship support.
 
 ## Features
-- Forum footer copywrite note and site infos.
+- Forum footer copywrite note and site infos. (Not finished yet)
+
+## 2022-4-19
+- Updated rainbow waving styled css stylesheet for `start discussion` button.
 
