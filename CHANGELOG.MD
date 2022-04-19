@@ -10,4 +10,5 @@
 
 ## 2022-4-19
 - Updated rainbow waving styled css stylesheet for `start discussion` button.
+- Updated some `README.md` content.
 
